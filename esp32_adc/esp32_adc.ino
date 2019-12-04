@@ -1,5 +1,7 @@
 #define ANALOG_INPUT_PIN 13
 
+// max value: 4095 - 12 bits
+
 void setup() {
   pinMode(ANALOG_INPUT_PIN, INPUT);
 
