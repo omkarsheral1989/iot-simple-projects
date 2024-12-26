@@ -1,7 +1,6 @@
 #include <Keypad.h>
 
-// install library: Keypad by Mark Stanley, Alexander Brevig.
-//
+
 //     1       2       3
 //
 //     4       5       6
